@@ -6,6 +6,15 @@
 
 ## Референсы
 
+![Reference 1](src/reference_1.png)
+![Reference 2](src/reference_2.png)
+
+### Примеры подключения кнопок
+
+![Button](src/button.png)
+![Button on plate](src/button_plate.png)
+
+
 ## Сценарии использования
 
 Управление компьютером и программами:
